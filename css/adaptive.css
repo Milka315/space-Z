@@ -1,0 +1,30 @@
+@media(max-width:867px){
+   .map_all{
+    flex-wrap: wrap;
+   }
+   .map_text{
+    margin-top: 30px;
+   }
+   .res_item{
+    width: 300px;
+   }
+   .block_res{
+    flex-wrap: wrap;
+   }
+.menu_btns{
+    margin-right: 250px;
+}
+.img img{
+    width: 300px;
+    margin-top: 100px;
+}
+.header{
+    height:50vh;
+}
+}
+@media(max-width:715px){
+    .menu_btns{
+        display: none;
+    }
+    
+}
